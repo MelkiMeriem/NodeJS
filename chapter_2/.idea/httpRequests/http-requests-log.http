@@ -1,0 +1,116 @@
+DELETE http://localhost:3000/api/data
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-02-20T193858.203.txt
+
+###
+
+DELETE http://localhost:3000/api/data
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2025-02-20T193752.404.html
+
+###
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+Content-Length: 23
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+   "name": "zaineb"
+}
+
+<> 2025-02-20T193007.201.txt
+
+###
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+Content-Length: 23
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+   "name": "zaineb"
+}
+
+<> 2025-02-20T192753.201.txt
+
+###
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+Content-Length: 23
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+   "name": "zaineb"
+}
+
+<> 2025-02-20T192526.201.txt
+
+###
+
+POST http://localhost:3000/api/data
+Content-Type: application/json
+Content-Length: 23
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+   "name": "zaineb"
+}
+
+<> 2025-02-20T192456.201.txt
+
+###
+
+GET http://localhost:3000/api/data
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-02-20T190124.200.json
+
+###
+
+GET http://localhost:3000/dashboard
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-02-20T185951.200.html
+
+###
+
+GET http://localhost:3000
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-02-20T185847.200.html
+
+###
+
+GET http://localhost:3000
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.3.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-02-20T185609.200.html
+
+###
+
